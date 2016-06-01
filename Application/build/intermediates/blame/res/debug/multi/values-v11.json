@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
+        "outputFile": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 115
                 },
                 "from": {
-                    "file": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
+                    "file": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\values-v11\\template-styles.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 650,
+                        "startOffset": 669,
                         "endColumn": 65,
-                        "endOffset": 711
+                        "endOffset": 730
                     }
                 }
             }

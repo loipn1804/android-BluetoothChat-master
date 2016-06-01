@@ -1,14 +1,14 @@
 [
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_device_access_bluetooth_searching.png",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tile.9.png",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tile.9.png",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-hdpi\\tile.9.png"
     },
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_device_access_bluetooth_searching.png",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\drawable-hdpi\\ic_action_device_access_bluetooth_searching.png"
     }
 ]
