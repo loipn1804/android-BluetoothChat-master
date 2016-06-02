@@ -1,3 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_d05b53da2e90e2278d5a9e05342f9f1024b8d87d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_275d8cd20fa8a6923bc7051853a9d10787445a60.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_37505cb48552a311dad8aa71ce923af7429f62ab.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="003ebdacd5f75067b8724f92bd5eefa323d870aa">
+        <dex dex="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-gridlayout-v7-23.3.0_494ac5829f2c13e0ec23d7099cebe4a2b1f25a49.jar" />
+    </item>
+    <item
+        jar="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="D:\AndroidProject2\LearnCode\2016\Bluetooth\android-BluetoothChat-master\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_0d693e8220f7b5a83e3da39603e653ef07172d13.jar" />
+    </item>
+
+</items>

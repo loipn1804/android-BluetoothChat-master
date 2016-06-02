@@ -1,22 +1,22 @@
 [
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\message.xml"
     },
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\message.xml",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\message.xml"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
     },
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth_chat.xml",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\fragment_bluetooth_chat.xml"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\activity_device_list.xml",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\activity_device_list.xml"
     },
     {
-        "merged": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
-        "source": "E:\\Android\\myproject\\LearnCode\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\device_name.xml"
+        "merged": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\build\\intermediates\\res\\merged\\debug\\layout\\device_name.xml",
+        "source": "D:\\AndroidProject2\\LearnCode\\2016\\Bluetooth\\android-BluetoothChat-master\\Application\\src\\main\\res\\layout\\device_name.xml"
     }
 ]
