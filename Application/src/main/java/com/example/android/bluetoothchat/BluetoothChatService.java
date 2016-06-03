@@ -334,6 +334,8 @@ public class BluetoothChatService {
                     synchronized (BluetoothChatService.this) {
                         switch (mState) {
                             case STATE_LISTEN:
+
+//                                break;
                             case STATE_CONNECTING:
                                 // Situation normal. Start the connected thread.
                                 connected(socket, socket.getRemoteDevice(),
@@ -353,7 +355,6 @@ public class BluetoothChatService {
                 }
             }
             Log.i(TAG, "END mAcceptThread, socket Type: " + mSocketType);
-
         }
 
         public void cancel() {
@@ -479,8 +480,7 @@ public class BluetoothChatService {
                     bytes = mmInStream.read(buffer);
 
                     // Send the obtained bytes to the UI Activity
-                    mHandler.obtainMessage(Constants.MESSAGE_READ, bytes, -1, buffer)
-                            .sendToTarget();
+                    mHandler.obtainMessage(Constants.MESSAGE_READ, bytes, -1, buffer).sendToTarget();
                 } catch (IOException e) {
                     Log.e(TAG, "disconnected", e);
                     connectionLost();
